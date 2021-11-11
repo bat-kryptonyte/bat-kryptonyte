@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bat-kryptonyte)
+<br><br/>
 ![](https://komarev.com/ghpvc/?username=bat-kryptonyte)
 
