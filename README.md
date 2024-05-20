@@ -1,8 +1,5 @@
 <div style="text-align: center;">
-  <h2>不恨古人吾不见，恨古人不见吾狂耳。</h2>
-</div>
-<div style="text-align: right;">
-  <h3>——《贺新郎·甚矣吾衰矣》</h3>
+  <h2>do or do not.</h2>
 </div>
 <div style="text-align: center;">
   <a href="https://github.com/bat-kryptonyte">
